@@ -1,0 +1,10 @@
+# created by virtualenv automatically
+.venv/
+./idea
+
+*.log
+*.tmp
+*.swp
+
+.env
+.env.*
